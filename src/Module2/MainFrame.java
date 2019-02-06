@@ -1,3 +1,5 @@
+package Module2;
+
 import javax.swing.*;
 import java.awt.*;
 
