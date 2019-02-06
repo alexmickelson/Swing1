@@ -14,6 +14,6 @@ public class TextPanel1 extends JPanel {
     }
 
     public void appendText(String string){
-        textArea.append(string);
+            textArea.append(string);
     }
 }
